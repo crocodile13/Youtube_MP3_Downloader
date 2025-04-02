@@ -1,9 +1,8 @@
-# -Youtube_MP3_Downloade
+# Youtube_MP3_Downloader
 
 Ce projet permet de télécharger des vidéos YouTube au format MP3 en utilisant yt-dlp et Node.js.
-Prérequis
-
-    Un système basé sur Debian (Pop!_OS, Ubuntu, etc.)
+Prérequis un système basé sur Debian (Ubuntu, Pop!_OS, etc.)
+Sinon install_dependencies.sh ne fonctionnera pas
 
     curl, git, nodejs, npm, python3, pip3
 
