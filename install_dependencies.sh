@@ -21,8 +21,8 @@ node -v
 npm -v
 
 # Installer Python3 et pip3 si nécessaire
-echo "Installation de Python3 et pip3..."
-apt install -y python3 python3-pip
+echo "Installation de Python3, pip3 et python3-venv..."
+apt install -y python3 python3-pip python3-venv
 
 # Vérification de l'installation de Python3
 python3 --version
